@@ -1,0 +1,19 @@
+# .NET Core
+bin/
+obj/
+
+# VS config folders
+.vs/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

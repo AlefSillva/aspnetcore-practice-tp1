@@ -22,7 +22,7 @@ class Program
             string mensagem;
 
             switch (input)
-            { 
+            {
                 case "PT":
                     mensagem = "Seja Bem-Vindo(a)!";
                     msgPortugues(mensagem);
@@ -40,6 +40,7 @@ class Program
                     break;
             }
         }
-        Console.ReadKey();
+        Console.WriteLine("Pressione Enter para continuar...");
+        Console.ReadLine();
     }
 }

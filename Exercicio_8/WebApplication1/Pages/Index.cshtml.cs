@@ -19,9 +19,9 @@ namespace WebApplication1.Pages
         {
             Produtos = new List<(string, decimal)>
             {
-                ("Notebook", 3500.00m),
-                ("Celular", 2200.00m),
-                ("Fone Bluetooth", 199.99m)
+                ("Notebook", 4000.00m),
+                ("Iphone 8", 3000.00m),
+                ("Fone Bluetooth", 149.99m)
             };
         }
     }

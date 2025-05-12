@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class CalcArea
+public class Program
 {
     static void Main(string[] args)
     {

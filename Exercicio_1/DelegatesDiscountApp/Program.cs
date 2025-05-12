@@ -21,7 +21,8 @@ public class Program
         {
             Console.WriteLine("Valor inválido. Tente novamente.");
         }
-           
-        Console.ReadKey();
+        
+        Console.WriteLine("Pressione Enter para sair...");
+        Console.ReadLine();
     }
 }

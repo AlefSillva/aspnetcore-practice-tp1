@@ -13,8 +13,8 @@ class Program
 
         logDelegate("Esta é uma mensagem de log");
 
-        Console.WriteLine("Pressione qualquer tecla para sair...");
-        Console.ReadKey();
+        Console.WriteLine("Pressione Enter para sair...");
+        Console.ReadLine();
     }
 
 }
